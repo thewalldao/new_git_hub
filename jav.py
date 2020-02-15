@@ -1,0 +1,1 @@
+list_jav = ["ozawa", "laura"]
